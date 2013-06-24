@@ -1,5 +1,5 @@
 {
-        "strategy": "hanaxs",
+	"strategy": "hanaxs",
 	"host": "54.252.175.170:30015",
 	"root": "foo"
 }
