@@ -1,8 +1,8 @@
-Simple HelloWorld application
+This is a simple Hello World application.
 
 Usage
 -----
-After forking please maintain
+After forking, please maintain
 - deployment.json
 
 change hostname, enter URL of your HANA instance
