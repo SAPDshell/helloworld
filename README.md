@@ -1,6 +1,6 @@
-Simple HelloWorld application
+# Simple HelloWorld application
 
-Usage
+## Usage
 -----
 After forking please maintain
 - deployment.json
@@ -23,9 +23,13 @@ From then on every commit to your repository triggers deployment to the HANA ins
 
 
 
-Error Handling
+## Error Handling
 --------------
 In case deployment does not seem to work, simply copy and paste WebHook URL into the adressfield of your browser 
 and execute.
 You should see the error message.
 For techical reasons the messages cannot be shown in Github
+
+## Contact
+--------------
+Contac on github.
